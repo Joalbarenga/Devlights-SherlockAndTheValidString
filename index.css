@@ -1,0 +1,18 @@
+#txtView{
+    color: green;
+    height:6.5rem;
+    background-color: lightgray;
+    font-weight: bold;
+    border-radius: 8px;
+    font-size: 35px;
+    text-align: center;
+}
+
+#btn1{
+    border-color: lightgreen;
+    background-color: green;
+    width: 543px;
+    border-radius: 8px;
+    margin-top: 5px;
+    text-align: center;
+}
